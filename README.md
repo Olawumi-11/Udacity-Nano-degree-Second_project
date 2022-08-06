@@ -1,0 +1,1 @@
+my second project at Udacity which involves wrangling and visualization  of tweet archive of Twitter user @dog_rates also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
